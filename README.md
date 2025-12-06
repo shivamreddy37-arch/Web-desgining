@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Text Styles</title><style>
+  <title>Text Styles</title>
 </head>
 <body>
   <p><b>This line is bold</b></p>
